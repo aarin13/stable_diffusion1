@@ -2,7 +2,7 @@
 # WebApp Prototype: Stable Diffusion Model API with Chakra UI
 
 
-This repository contains a web application prototype that utilizes a Stable Diffusion Model API, built on Python using the Hugging Face library, combined with a sample web app created with the Chakra UI template. The Stable Diffusion Model API allows users to generate stable and high-quality samples based on the provided input.
+This repository contains a web application prototype that utilizes a Stable Diffusion Model API, built on Python and pretrained model from HuggingFace, combined with a sample web app created with the Chakra UI template. The Stable Diffusion Model API allows users to generate stable and high-quality samples based on the provided input.
 
 ## Features
 
