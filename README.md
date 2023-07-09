@@ -8,8 +8,8 @@ This repository contains a web application prototype that utilizes a Stable Diff
 
 - Utilizes a pretrained Stable Diffusion Model from Hugging Face.
 - Interactive web interface built with the Chakra UI template.
-- Generate stable and high-quality samples from the provided input.
-- Easy-to-use interface for user input and result display.
+- Generate stable and high-quality samples from the provided input (the output is stored locally0
+- Easy-to-use interface for user input and result display. (under development)
 
 ## Dependencies
 
